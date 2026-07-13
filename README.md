@@ -10,8 +10,7 @@ Claude prompt library work
 
 **📁 Category 2: Learning & Research (5 prompts)**
 6. Act as an expert teacher. Explain prompting to me like I'm a complete beginner. Use a real-life analogy, 3 key points, and one example. Keep it under 300 words
-7. Act as a research assistant. Summarize the following text in 5 bullet points. Focus on the most important ideas only. Do NOT copy sentences — rewrite in simple language:
-   **Artificial intelligence is transforming healthcare by enabling faster, personalized patient care and earlier disease detection through advanced data analysis. By automating administrative tasks and optimizing operations, AI reduces medical errors and lowers costs, allowing staff to prioritize direct patient interaction. These advancements are rapidly reshaping the future of medical care.**
+7. Act as a research assistant. Summarize the following text in 5 bullet points. Focus on the most important ideas only. Do NOT copy sentences — rewrite in simple language: **Artificial intelligence is transforming healthcare by enabling faster, personalized patient care and earlier disease detection through advanced data analysis. By automating administrative tasks and optimizing operations, AI reduces medical errors and lowers costs, allowing staff to prioritize direct patient interaction. These advancements are rapidly reshaping the future of medical care.**
 8. Act as a research analyst. Think step by step. Give me a complete overview of Tokenization including: what it is, why it matters, key facts, and future trends. Format with clear headings
 9. Act as a teacher. Quiz me on AI. Ask me 5 questions one at a time. Wait for my answer before showing the next question. After all 5, give me a score and explain wrong answers.
 10. Act as an expert in OpenAI. Compare ChatGPT vs Claude. Format as a table with columns: Feature | ChatGPT | Claude | Winner. Keep tone neutral and factual.
