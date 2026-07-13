@@ -37,4 +37,5 @@ Claude prompt library work
 27.Act as an AI tools expert. Compare ChatGPT Plus vs Claude Pro for coding and technical writing. Format as a table: Feature | Tool A | Tool B | Best For. Keep tone neutral and practical.
 28. Act as a Midjourney expert. I am a complete beginner. Give me a step-by-step beginner's guide to Midjourney. Format as numbered steps. Include: what it does, how to start, and 3 practical use cases.
 29. Act as an AI researcher. Summarize the most important AI developments in Multimodal AI Models from the past month. Format with: Development | Why It Matters | Impact on e-commerce businesses. Keep it beginner-friendly.
-30. Act as an AI career coach. Think step by step. Build me a 90-day learning plan to become proficient in Retrieval-Augmented Generation (RAG) implementation. Format as a week-by-week table. Include: Topic | Resource | Practice Task | Goal.
+30. Act as an AI tools expert. Compare ChatGPT Plus vs Claude Pro for coding and technical writing. Format as a table: Feature | Tool A | Tool B | Best For. Keep tone neutral and practical.
+31. Act as an AI career coach. Think step by step. Build me a 90-day learning plan to become proficient in Retrieval-Augmented Generation (RAG) implementation. Format as a week-by-week table. Include: Topic | Resource | Practice Task | Goal.
