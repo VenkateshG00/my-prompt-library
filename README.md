@@ -1,7 +1,8 @@
 # my-prompt-library
 Claude prompt library work
 
-**📁 Category 1: Daily Planning (5 prompts)**
+## 📁 Category 1: Daily Planning (5 prompts)
+
 1. Act as a productivity coach. Help me plan my top 3 tasks for today in order of importance. My tasks are: gym, office work, swimming. I work best in mornings and need to finish by 8pm in the night.
 2. Act as a time management expert. Create a weekly schedule for me. I need to balance: gym, office work, swimming. Format as a day-by-day table. Keep it realistic and beginner-friendly.
 3. Act as a life coach. Help me set a clear 30-day goal for fat-loss. Think step by step — break it into weekly milestones. Format as a week-by-week plan. Tone: motivating.
