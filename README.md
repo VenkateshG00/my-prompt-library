@@ -8,19 +8,19 @@ Claude prompt library work
 4. Act as a productivity coach. Help me review my day. I completed: fitness. I struggled with: laziness. Give me 3 improvements for tomorrow. Keep it short and honest.
 5. Act as a habit coach. I want to build these habits: 4.30am wakeup, daily gym. Create a simple 21-day habit tracker plan. Format as a table. Do NOT make it overwhelming — keep it beginner-friendly.
 
-**📁 Category 1: Daily Planning (5 prompts)**
-1. Act as a productivity coach. Help me plan my top 3 tasks for today in order of importance. My tasks are: gym, office work, swimming. I work best in mornings and need to finish by 8pm in the night.
-2. Act as a time management expert. Create a weekly schedule for me. I need to balance: gym, office work, swimming. Format as a day-by-day table. Keep it realistic and beginner-friendly.
-3. Act as a life coach. Help me set a clear 30-day goal for fat-loss. Think step by step — break it into weekly milestones. Format as a week-by-week plan. Tone: motivating.
-4. Act as a productivity coach. Help me review my day. I completed: fitness. I struggled with: laziness. Give me 3 improvements for tomorrow. Keep it short and honest.
-5. Act as a habit coach. I want to build these habits: 4.30am wakeup, daily gym. Create a simple 21-day habit tracker plan. Format as a table. Do NOT make it overwhelming — keep it beginner-friendly.
-
 **📁 Category 2: Learning & Research (5 prompts)**
 6. Act as an expert teacher. Explain prompting to me like I'm a complete beginner. Use a real-life analogy, 3 key points, and one example. Keep it under 300 words
 7. Act as a research assistant. Summarize the following text in 5 bullet points. Focus on the most important ideas only. Do NOT copy sentences — rewrite in simple language: **Artificial intelligence is transforming healthcare by enabling faster, personalized patient care and earlier disease detection through advanced data analysis. By automating administrative tasks and optimizing operations, AI reduces medical errors and lowers costs, allowing staff to prioritize direct patient interaction. These advancements are rapidly reshaping the future of medical care.**
 8. Act as a research analyst. Think step by step. Give me a complete overview of Tokenization including: what it is, why it matters, key facts, and future trends. Format with clear headings
 9. Act as a teacher. Quiz me on AI. Ask me 5 questions one at a time. Wait for my answer before showing the next question. After all 5, give me a score and explain wrong answers.
+5. Act as a habit coach. I want to build these habits: 4.30am wakeup, daily gym. Create a simple 21-day habit tracker plan. Format as a table. Do NOT make it overwhelming — keep it beginner-friendly.
 10. Act as an expert in OpenAI. Compare ChatGPT vs Claude. Format as a table with columns: Feature | ChatGPT | Claude | Winner. Keep tone neutral and factual.
+
+
+
+
+
+
 
 **📁 Category 3: Writing & Emails (5 prompts)**
 11. Act as a professional email writer. Write an email to Manager about sick Leave. Context: medical condition. Keep it under 150 words. Tone: formal and respectful.
